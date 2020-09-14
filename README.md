@@ -13,4 +13,4 @@ requirements :
 Preview :
 
 
-![Fullscreen Capture](https://imgur.com/QEKEJGr)
+![Imgur](https://i.imgur.com/QEKEJGr.png)
