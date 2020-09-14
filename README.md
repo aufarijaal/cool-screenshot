@@ -12,5 +12,8 @@ requirements :
 
 Preview :
 
-
+Fullscreen 
 ![Imgur](https://i.imgur.com/QEKEJGr.png)
+
+Region
+[Imgur](https://i.imgur.com/8WYh0vX.png)
